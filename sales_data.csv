@@ -1,0 +1,26 @@
+Order_ID,Order_Date,Product,Category,Quantity,Unit_Price,Customer,Region
+101,2026-01-05,Laptop,Electronics,2.0,50000,Amit,West
+102,2026-01-07,Mouse,Accessories,5.0,500,Priya,South
+103,2026-01-09,Keyboard,Accessories,3.0,1500,Rahul,North
+104,2026-01-12,Monitor,Electronics,1.0,12000,Sneha,East
+105,2026-01-15,Laptop,Electronics,1.0,50000,Amit,West
+106,2026-01-18,Mouse,accessories,4.0,500,Priya,South
+107,2026-01-20,Keyboard,Accessories,2.0,1500,Rahul,North
+108,2026-01-22,Monitor,Electronics,2.0,12000,Sneha,East
+109,2026-01-25,Headphones,Accessories,3.0,2000,Neha,West
+110,2026-01-27,Laptop,Electronics,1.0,50000,Amit,South
+111,2026-02-02,Mouse,Accessories,6.0,500,Priya,North
+112,2026-02-04,Keyboard, accessories ,3.0,1500,Rahul,East
+113,2026-02-06,Monitor,Electronics,2.0,12000,Sneha,West
+114,2026-02-09,Headphones,Accessories,4.0,2000,Neha,South
+115,2026-02-11,Laptop,Electronics,2.0,50000,Amit,North
+116,2026-02-14,Mouse,Accessories,5.0,500,Priya,East
+117,2026-02-16,Keyboard,Accessories,2.0,1500,,West
+118,2026-02-18,Monitor,Electronics,1.0,12000,Sneha,South
+119,2026-02-21,Headphones,Accessories,3.0,2000,Neha,North
+120,2026-02-23,Laptop,Electronics,1.0,50000,Amit,East
+121,2026-03-01,Mouse,Accessories,4.0,500,Priya,West
+122,2026-03-04,Keyboard,Accessories,,1500,Rahul,South
+123,2026-03-07,Monitor,Electronics,2.0,12000,Sneha,North
+124,2026-03-10,Headphones,Accessories,3.0,2000,Neha,East
+101,2026-01-05,Laptop,Electronics,2.0,50000,Amit,West
